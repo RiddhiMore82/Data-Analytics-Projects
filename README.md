@@ -24,6 +24,21 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
   - Charts: Salary/Rating by department, Gender pie, Employee growth line
 - **Files**: `.pbix`, `.ipynb`, `.csv`, `.pdf`
 
+---
+
+### 2️⃣ [Automated Sales Data Tracker](./automated-sales-tracker)
+- **Tools**: Python, Google Sheets API, Google Colab, Pandas
+- **Objective**: Automate the process of collecting, consolidating, and updating daily sales data in Google Sheets
+- **Features**:
+  - Connects to Google Sheets using service account credentials
+  - Automatically fetches raw sales data and appends it to a master sheet
+  - Cleans and summarizes data (e.g., total sales, product-wise performance)
+  - Writes live KPIs back into Google Sheets dashboard
+  - Optional: Scheduled runs via Colab or script trigger
+- **Files**: `.ipynb` notebook, `credentials.json` guide, sample sheets link
+
+---
+
 <!-- More Projects coming soon -->
 
 ---
