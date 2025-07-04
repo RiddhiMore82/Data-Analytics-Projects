@@ -47,8 +47,10 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 I’m currently building hands-on projects to strengthen my data analytics portfolio and prepare for roles in **data analysis, business intelligence, and decision science**.
 
-📫 **Email**: riddhiswayam82@gmail.com  
+📫 **Email**: riddhiswayam82@gmail.com 
+
 🔗 **LinkedIn**: www.linkedin.com/in/riddhimore3101 
+
 🌍 **Location**: Mumbai, India
 
 ---
