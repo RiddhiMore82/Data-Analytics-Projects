@@ -15,7 +15,7 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ## 📂 Projects
 
-### 1️⃣ [Workforce Performance Dashboard](./workforce-performance-dashboard)
+### 1️⃣ [HR Analytics: Training & Retention Insights](./workforce-performance-dashboard)
 - **Tools**: Power BI, pandas (Colab)
 - **Objective**: Analyze employee salary, tenure, rating, and gender diversity
 - **Features**:
@@ -26,7 +26,7 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ---
 
-### 2️⃣ [Automated Sales Data Tracker](./automated-sales-tracker)
+### 2️⃣ [Sales Data Pipeline Automation](./automated-sales-tracker)
 - **Tools**: Python, Google Sheets API, Google Colab, Pandas
 - **Objective**: Automate the process of collecting, consolidating, and updating daily sales data in Google Sheets
 - **Features**:
