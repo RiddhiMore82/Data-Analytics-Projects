@@ -26,7 +26,7 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ---
 
-### 2️⃣ [Sales Data Pipeline Automation](./automated-sales-tracker)
+### 2️⃣ [Sales Data Pipeline Automation](./sales-data-pipeline-automation)
 - **Tools**: Python, Google Sheets API, Google Colab, Pandas
 - **Objective**: Automate the process of collecting, consolidating, and updating daily sales data in Google Sheets
 - **Features**:
