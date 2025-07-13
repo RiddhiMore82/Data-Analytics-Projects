@@ -1,4 +1,4 @@
-# 📊 Automated Sales Data Tracker
+# 📊 Sales Data Pipeline Automationv
 
 An automated pipeline built using **Google Colab**, **Python**, and the **Google Sheets API** to streamline the process of uploading and tracking sales data. This project uses the 
 **Adidas Sales dataset** and automatically uploads cleaned sales data to a Google Sheet, along with KPI summaries like **Total Sales by Region** and **Total Sales by Product**.
