@@ -45,10 +45,9 @@ The project includes:
 
 | File                                   | Description |
 |----------------------------------------|-------------|
-| `workforce_analysis_colab.ipynb`       | Data cleaning & metric calculations in Python |
+| `HR Analytics.ipynb`                   | Data cleaning & metric calculations in Python |
 | `hr_cleaned_data.csv`                  | Cleaned HR dataset |
-| `Workforce Performance Dashboard.pbix` | Power BI dashboard |
-| `dashboard_preview.pdf`                | Exported snapshot of the dashboard |
+| `HR Analytics Dashboard.pbix`          | Power BI dashboard |
 | `README.md`                            | This file |
 
 ---
