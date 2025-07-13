@@ -15,7 +15,7 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ## 📂 Projects
 
-### 1️⃣ [HR Analytics: Training & Retention Insights](./workforce-performance-dashboard)
+### 1️⃣ [HR Analytics: Training & Retention Insights](./hr-analytics-training-retention)
 - **Tools**: Power BI, pandas (Colab)
 - **Objective**: Analyze employee salary, tenure, rating, and gender diversity
 - **Features**:
