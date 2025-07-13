@@ -39,7 +39,7 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ---
 
-3️⃣ **Uber Trip Data Analysis (SQL)**  
+### 3️⃣ [Uber Trip Analysis](./uber-trip-analysis)  
 **Tools:** MySQL Workbench  
 **Objective:** Analyze trip trends from Uber trip data using structured SQL queries  
 **Features:**  
