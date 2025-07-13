@@ -39,7 +39,14 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ---
 
-<!-- More Projects coming soon -->
+3️⃣ **Uber Trip Data Analysis (SQL)**  
+**Tools:** MySQL Workbench  
+**Objective:** Analyze trip trends from Uber trip data using structured SQL queries  
+**Features:**  
+- 40+ queries from beginner to advanced (trip count, distance, purpose, duration)  
+- Used `GROUP BY`, `CASE`, `DATE` functions, `WINDOW` functions  
+- Time-slot categorization, top N analysis, weekday vs weekend trends  
+**Files:** '.csv', '.xlsx', `.sql`, `README.md`
 
 ---
 
