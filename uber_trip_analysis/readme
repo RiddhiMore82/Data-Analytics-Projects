@@ -22,7 +22,9 @@ To extract meaningful insights from Uber trip data using SQL, without relying on
 uber-sql-analysis/
 │
 ├── uber_trip_analysis.sql # All queries grouped by difficulty level
-└── README.md # Project documentation (this file)
+├── uber_dataset.xlsx
+├── uber_dataset.csv
+└── README.md
 
 ---
 
