@@ -67,9 +67,10 @@ It uses **Excel formulas, pivot tables, slicers**, and **charts** to extract act
 
 ---
 
-🙋‍♀️ Author
-Riddhi More
-Aspiring Data Analyst | MCA Graduate
+## 🙋‍♀️ Author
+
+**Riddhi More**  
+Aspiring Data Analyst | MCA Graduate    
 📍 Mumbai, Maharashtra, India
 
 ---
