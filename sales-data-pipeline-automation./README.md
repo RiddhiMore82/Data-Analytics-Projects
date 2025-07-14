@@ -69,7 +69,7 @@ Your Google Sheet will have:
 
 ---
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Riddhi More
 Aspiring Data Analyst | MCA Graduate
 📍 Mumbai, Maharashtra, India
