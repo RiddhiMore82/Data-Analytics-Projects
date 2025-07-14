@@ -74,4 +74,16 @@ WHERE TIMESTAMPDIFF(MINUTE, Start_Date, End_Date) > 60;
 1. Save this content in your `uber-sql-analysis/README.md` file.
 2. Upload to GitHub with your `.sql` file in the same folder.
 
+---
 
+## 🙋‍♀️ Author
+
+**Riddhi More**  
+Aspiring Data Analyst | MCA Graduate    
+📍 Mumbai, Maharashtra, India
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](https://choosealicense.com/licenses/mit/).
