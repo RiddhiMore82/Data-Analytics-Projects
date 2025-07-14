@@ -50,6 +50,19 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ---
 
+### 4️⃣ [Product Inventory Dashboard & Retail Insights (Excel)](./product-inventory-dashboard-retail-insights-in-excel)
+- **Tools**: Microsoft Excel
+- **Objective**: Analyze product inventory and visualize stock performance across brands and categories
+- **Features**:
+  - Cleaned and enhanced product dataset (100 records) with calculated fields
+  - Pivot-based analysis: category-wise, brand-wise, availability insights
+  - Dashboard with KPIs: Total Products, Inventory Value, Low Stock, Discontinued
+  - Charts: Top 10 products by value, availability pie, category-wise value, brand avg. stock
+  - Interactive slicers for filtering by category, brand, and availability
+- **Files**: `.xlsx`, `README.md`
+
+---
+
 ## 🧠 About Me
 
 I’m currently building hands-on projects to strengthen my data analytics portfolio and prepare for roles in **data analysis, business intelligence, and decision science**.
