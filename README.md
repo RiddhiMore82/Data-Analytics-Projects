@@ -63,6 +63,10 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ---
 
+### 5️⃣ [HIPAA-Complaint Healthcare Claims Fraud Detection](./hipaa-complaint-healthcare-claim-fraud-detection)
+
+---
+
 ## 🧠 About Me
 
 I’m currently building hands-on projects to strengthen my data analytics portfolio and prepare for roles in **data analysis, business intelligence, and decision science**.
