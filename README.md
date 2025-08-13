@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning raw data into actionable insights. This repository showcases my end-to-end data analytics projects using tools like **Excel**, **Python**, **Power BI**, **SQL**, and **Tableau Public**.
+Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning raw data into actionable insights. This repository showcases my end-to-end data analytics projects using tools like **Excel**, **Python**, **Power BI**, **SQL**, **Tableau Public**, and **Python's Data Analysis and Visualization libraries**.
 
 ---
 
