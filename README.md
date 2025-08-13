@@ -79,7 +79,7 @@ I’m currently building hands-on projects to strengthen my data analytics portf
 
 🔗 **LinkedIn**: www.linkedin.com/in/riddhimore3101 
 
-🌍 **Location**: Mumbai, India
+🌍 **Location**: Mumbai, Maharashtra, India
 
 ---
 
