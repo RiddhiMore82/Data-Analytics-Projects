@@ -67,7 +67,7 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ---
 
-### 6️⃣ [AirGuard: Real-Time & Predictive Analytics for Pollution Control] ()
+### 6️⃣ [AirGuard: Real-Time & Predictive Analytics for Pollution Control] (./breathesafe-realtime-predictive-analytics-for-pollution-control)
 
 ---
 
