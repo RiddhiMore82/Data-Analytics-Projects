@@ -118,10 +118,11 @@ This study highlights distinct Aadhaar service utilization patterns across regio
 ## 📂 Repository Structure
 
 ```
-/Data        → Raw & cleaned UIDAI datasets  
-/Dashboard   → Power BI (.pbix) dashboard file  
-/Report      → Detailed analysis report (PDF)  
-README.md    → Project documentation
+→ Raw & cleaned UIDAI datasets  
+→ Power BI (.pbix) dashboard file  
+→ Detailed analysis report (PDF)  
+→ Project documentation
+→ README.md    
 ```
 
 ---
