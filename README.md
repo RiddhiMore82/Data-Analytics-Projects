@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning raw data into actionable insights. This repository showcases my end-to-end data analytics projects using tools like **Excel**, **Python**, **Power BI**, **SQL**, **Tableau Public**, and **Python's Data Analysis and Visualization libraries**.
+Welcome! I'm **Riddhi More**, an aspiring data professional passionate about turning raw data into actionable insights. This repository showcases my end-to-end data analytics projects using tools like **Excel**, **Python**, **Power BI**, **SQL**, **Tableau Public**, and **Python's Data Analysis and Visualization libraries**.
 
 ---
 
@@ -8,14 +8,28 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 - **Languages**: Python, SQL
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
-- **BI Tools**:  Excel, Power BI, Tableau Public
-- **Concepts**:  Data Cleaning, EDA, KPI Reporting, Dashboard Design, DAX, Slicers, Filters
+- **BI Tools**:  Excel, Power BI, Tableau Public, Google Colab, Google Sheets
+- **Concepts**:  Data Cleaning, EDA, KPI Reporting, Dashboard Design, DAX, Slicers, Filters, BI
 
 ---
 
 ## 📂 Projects
 
-### 1️⃣ [HR Analytics: Training & Retention Insights](./hr-analytics-training-retention)
+### 1️⃣ Aadhaar Enrolment & Update Trends Analysis (UIDAI Data Hackathon 2026)
+
+- **Tools**: Power BI, SQL, Excel
+- **Objective**: Analyze Aadhaar enrolment and update patterns across Maharashtra and Mumbai Suburban to support data-driven operational planning
+- **Features**:
+  -  Analyzed 1M+ Aadhaar records covering enrolments, demographic updates, and biometric updates
+  - Built 8+ interactive Power BI dashboards comparing districts, regions, update types, and time-based trends
+  - Visualized enrolment vs update behavior using clustered bars, stacked columns, trend lines, and KPI cards
+  - Identified 20–30% higher update volumes in key urban districts, highlighting resource and infrastructure demand
+  - Enabled region-wise and time-window analysis using slicers for better decision-making
+- **Files**: .pbix, .xlsx, .sql, .pdf, README.md
+
+---
+
+### 2️⃣ [HR Analytics: Training & Retention Insights](./hr-analytics-training-retention)
 - **Tools**: Power BI, pandas (Colab)
 - **Objective**: Analyze employee salary, tenure, rating, and gender diversity
 - **Features**:
@@ -26,7 +40,7 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ---
 
-### 2️⃣ [Sales Data Pipeline Automation](./sales-data-pipeline-automation.)
+### 3️⃣ [Sales Data Pipeline Automation](./sales-data-pipeline-automation.)
 - **Tools**: Python, Google Sheets API, Google Colab, Pandas
 - **Objective**: Automate the process of collecting, consolidating, and updating daily sales data in Google Sheets
 - **Features**:
@@ -39,18 +53,30 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
 
 ---
 
-### 3️⃣ [Uber Trip Analysis](./uber_trip_analysis)  
-**Tools:** MySQL Workbench  
-**Objective:** Analyze trip trends from Uber trip data using structured SQL queries  
-**Features:**  
-- 40+ queries from beginner to advanced (trip count, distance, purpose, duration)  
-- Used `GROUP BY`, `CASE`, `DATE` functions, `WINDOW` functions  
-- Time-slot categorization, top N analysis, weekday vs weekend trends  
-**Files:** '.csv', '.xlsx', `.sql`, `README.md`
+### 4️⃣ Healthcare Claims Fraud Detection
 
 ---
 
-### 4️⃣ [Product Inventory Dashboard & Retail Insights (Excel)](./product-inventory-dashboard-retail-insights-in-excel)
+### 5️⃣ Marketing & Inventory Intelligence
+
+---
+
+### 6️⃣ Real-Time & Predictive Environmental Analytics
+
+---
+
+### 7️⃣ [Uber Trip Analysis](./uber_trip_analysis)  
+- **Tools:** MySQL Workbench  
+- **Objective:** Analyze trip trends from Uber trip data using structured SQL queries  
+- **Features:**  
+   - 40+ queries from beginner to advanced (trip count, distance, purpose, duration)  
+   - Used `GROUP BY`, `CASE`, `DATE` functions, `WINDOW` functions  
+   - Time-slot categorization, top N analysis, weekday vs weekend trends 
+- **Files:** '.csv', '.xlsx', `.sql`, `README.md`
+
+---
+
+### 8️⃣ [Product Inventory Dashboard & Retail Insights (Excel)](./product-inventory-dashboard-retail-insights-in-excel)
 - **Tools**: Microsoft Excel
 - **Objective**: Analyze product inventory and visualize stock performance across brands and categories
 - **Features**:
@@ -61,15 +87,7 @@ Welcome! I'm **Riddhi More**, an aspiring data analyst passionate about turning 
   - Interactive slicers for filtering by category, brand, and availability
 - **Files**: `.xlsx`, `README.md`
 
----
-
-### 5️⃣ [HIPAA-Complaint Healthcare Claims Fraud Detection](./hipaa-complaint-healthcare-claim-fraud-detection)
-
----
-
-### 6️⃣ [BreatheSafe: Real-Time & Predictive Analytics for Pollution Control](./breathesafe-realtime-predictive-analytics-for-pollution-control)
-
----
+---  
 
 ## 🧠 About Me
 
