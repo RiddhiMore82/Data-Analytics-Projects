@@ -3,9 +3,13 @@
 ## A Comparative Analysis of Maharashtra and Mumbai Suburban
 
 **UIDAI Data Hackathon 2026 Project**
+
 **Author:** Riddhi More
+
 **Tools Used:** Microsoft Excel, Power BI
+
 **Data Source:** UIDAI Open Data Portal
+
 **Analysis Period:** July 2025 & September 2025
 
 ---
