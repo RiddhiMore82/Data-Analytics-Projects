@@ -15,7 +15,7 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 
 ## 📂 Projects
 
-### 1️⃣ Aadhaar Enrolment & Update Trends Analysis (UIDAI Data Hackathon 2026)
+### 1️⃣ [Aadhaar Enrolment & Update Trends Analysis (UIDAI Data Hackathon 2026)](./UIDAI_Data_Hackathon_Project_2026)
 
 - **Tools**: Power BI, SQL, Excel
 - **Objective**: Analyze Aadhaar enrolment and update patterns across Maharashtra and Mumbai Suburban to support data-driven operational planning
