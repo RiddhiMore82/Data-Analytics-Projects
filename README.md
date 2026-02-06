@@ -21,7 +21,7 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 - **Objective**: Analyze Aadhaar enrolment and update patterns across Maharashtra and Mumbai Suburban to support data-driven operational planning
 - **Features**:
   -  Analyzed 1M+ Aadhaar records covering enrolments, demographic updates, and biometric updates
-  - Built 8+ interactive Power BI dashboards comparing districts, regions, update types, and time-based trends
+  - Built 8+ multi-page Power BI report with dedicated pages for enrolment trends, update activity, and administrative pressure analysis comparing districts, regions, update types, and time-based trends.
   - Visualized enrolment vs update behavior using clustered bars, stacked columns, trend lines, and KPI cards
   - Identified 20–30% higher update volumes in key urban districts, highlighting resource and infrastructure demand
   - Enabled region-wise and time-window analysis using slicers for better decision-making
