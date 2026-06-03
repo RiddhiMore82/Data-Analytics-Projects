@@ -33,36 +33,7 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 
 ---
 
-### 2️⃣ [HR Analytics: Training & Retention Insights](./hr-analytics-training-retention)
-
-* **Tools**: Power BI, Pandas (Google Colab)
-* **Objective**: Analyze employee salary, tenure, rating, and workforce diversity
-* **Features**:
-
-  * Interactive dashboard with slicers
-  * KPIs: Average Salary, Rating, and Tenure
-  * Department-wise salary and rating analysis
-  * Employee growth trends and gender distribution insights
-* **Files**: `.pbix`, `.ipynb`, `.csv`, `.pdf`
-
----
-
-### 3️⃣ [Sales Data Pipeline Automation](./sales-data-pipeline-automation.)
-
-* **Tools**: Python, Google Sheets API, Pandas, Google Colab
-* **Objective**: Automate collection, cleaning, consolidation, and reporting of sales data
-* **Features**:
-
-  * Connected to Google Sheets using service account credentials
-  * Automated sales data extraction and consolidation
-  * Generated product-level and overall sales summaries
-  * Updated KPI dashboards automatically in Google Sheets
-  * Designed workflow for repeatable execution
-* **Files**: `.ipynb`, `.csv`, setup guides, sample dashboards
-
----
-
-### 4️⃣ [Banking Customer Churn Prediction Pipeline](./Customer_Churn_Prediction_Pipeline)
+### 2️⃣ [Banking Customer Churn Prediction Pipeline](./Customer_Churn_Prediction_Pipeline)
 
 * **Tools**: Python, Scikit-learn, Pandas, NumPy, Streamlit, Joblib, Matplotlib, Seaborn
 * **Objective**: Predict customer churn and support proactive retention strategies through machine learning
@@ -80,7 +51,7 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 
 ---
 
-### 5️⃣ [RAG-Based Product Intelligence Assistant](./RAG-based_Product_Intelligence_Assistant)
+### 3️⃣ [RAG-Based Product Intelligence Assistant](./RAG-based_Product_Intelligence_Assistant)
 
 * **Tools**: Python, Streamlit, LangChain, OpenAI GPT-4o-mini, Scikit-learn, Pandas
 * **Objective**: Build an AI-powered business intelligence assistant that enables natural language querying over SaaS sales data using Retrieval-Augmented Generation (RAG)
@@ -94,31 +65,83 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
   * Automated retrieval and insight generation workflows for decision support
   * Designed a scalable architecture separating retrieval and reasoning layers
 * **Files**: `.py`, `.csv`, `.env`, `requirements.txt`, `README.md`
+ 
+---
+
+### 4️⃣ [Marketing Campaign Performance Analytics](./Marketing_Campaign_Performance_Analytics)
+
+* **Tools**: SQL (MySQL), Power BI
+* **Objective**: Assess marketing effectiveness and optimize budget allocation through campaign performance analytics.
+* **Features**:
+
+  * Examined 200K marketing records spanning 6 channels, 5 cities, and multiple audience segments.
+  * Identified Website as the top-performing channel with 5.01 average ROI, supporting channel investment decisions.
+  * Detected conversion-rate anomalies through monthly trend analysis, revealing an April surge followed by a significant May decline.
+  * Evaluated customer acquisition costs across campaign types and audience segments, highlighting Email's ~$4.2M CAC.
+  * Applied SQL window functions (DENSE_RANK, LAG) to rank channel performance and measure month-over-month ROI changes.
+  * Designed Power BI dashboards to monitor ROI, acquisition cost, conversion trends, and audience-level performance.
+* **Files**: `.sql`, `.csv`, `.pbix`, README.md
 
 ---
 
-### 6️⃣ Healthcare Claims Fraud Detection
+ ### 5️⃣  Healthcare Claims Fraud Detection
 
 * **Status**: In Progress
 * **Focus**: Machine Learning, Anomaly Detection, Fraud Analytics
 
 ---
 
-### 7️⃣ Marketing & Inventory Intelligence
+### 6️⃣  Real-Time & Predictive Environmental Analytics
 
 * **Status**: In Progress
+* **Focus**: Time-Series Analytics, Forecasting, Data Visualization Marketing & Inventory Intelligence
+
+---
+
+### 7️⃣ Marketing & Inventory Intelligence 
+
+* **Status**: In Progress *
 * **Focus**: Customer Analytics, Demand Forecasting, Business Intelligence
 
 ---
 
-### 8️⃣ Real-Time & Predictive Environmental Analytics
+### 8️⃣ Automated EDA & Insight Generation Engine
 
-* **Status**: In Progress
-* **Focus**: Time-Series Analytics, Forecasting, Data Visualization
+* **Status**: In Progress *
+* **Focus**: Automated EDA, Data Profiling, AI-Ready Analytics
 
 ---
 
-### 9️⃣ [Uber Trip Analysis](./uber_trip_analysis)
+### 9️⃣  [HR Analytics: Training & Retention Insights](./hr-analytics-training-retention)
+
+* **Tools**: Power BI, Pandas (Google Colab)
+* **Objective**: Analyze employee salary, tenure, rating, and workforce diversity
+* **Features**:
+
+  * Interactive dashboard with slicers
+  * KPIs: Average Salary, Rating, and Tenure
+  * Department-wise salary and rating analysis
+  * Employee growth trends and gender distribution insights
+* **Files**: `.pbix`, `.ipynb`, `.csv`, `.pdf`
+
+--- 
+
+### 🔟 [Sales Data Pipeline Automation](./sales-data-pipeline-automation.)
+
+* **Tools**: Python, Google Sheets API, Pandas, Google Colab
+* **Objective**: Automate collection, cleaning, consolidation, and reporting of sales data
+* **Features**:
+
+  * Connected to Google Sheets using service account credentials
+  * Automated sales data extraction and consolidation
+  * Generated product-level and overall sales summaries
+  * Updated KPI dashboards automatically in Google Sheets
+  * Designed workflow for repeatable execution
+* **Files**: `.ipynb`, `.csv`, setup guides, sample dashboards
+
+---
+
+### 1️⃣1️⃣ [Uber Trip Analysis](./uber_trip_analysis)
 
 * **Tools**: MySQL Workbench
 * **Objective**: Analyze Uber trip trends using SQL
@@ -132,7 +155,7 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 
 ---
 
-### 🔟 [Product Inventory Dashboard & Retail Insights (Excel)](./product-inventory-dashboard-retail-insights-in-excel)
+### 1️⃣2️⃣ [Product Inventory Dashboard & Retail Insights (Excel)](./product-inventory-dashboard-retail-insights-in-excel)
 
 * **Tools**: Microsoft Excel
 * **Objective**: Analyze inventory and visualize stock performance across brands and categories
