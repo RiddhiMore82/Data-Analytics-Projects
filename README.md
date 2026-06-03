@@ -62,7 +62,7 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 
 ---
 
-### 4️⃣ [Banking Customer Churn Prediction Pipeline](./customer-churn-prediction)
+### 4️⃣ [Banking Customer Churn Prediction Pipeline](./Customer_Churn_Prediction_Pipeline)
 
 * **Tools**: Python, Scikit-learn, Pandas, NumPy, Streamlit, Joblib, Matplotlib, Seaborn
 * **Objective**: Predict customer churn and support proactive retention strategies through machine learning
