@@ -84,35 +84,42 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 
 ---
 
- ### 5️⃣  Healthcare Claims Fraud Detection
+### 5️⃣ HR Attrition & Workforce Intelligence
+
+* **Status**: In Progress
+* **Focus**: Workforce Analytics, Attrition Analysis, HR Intelligence
+
+---
+
+### 6️⃣  Healthcare Claims Fraud Detection
 
 * **Status**: In Progress
 * **Focus**: Machine Learning, Anomaly Detection, Fraud Analytics
 
 ---
 
-### 6️⃣  Real-Time & Predictive Environmental Analytics
+### 7️⃣ Real-Time & Predictive Environmental Analytics
 
 * **Status**: In Progress
 * **Focus**: Time-Series Analytics, Forecasting, Data Visualization Marketing & Inventory Intelligence
 
 ---
 
-### 7️⃣ Marketing & Inventory Intelligence 
+### 8️⃣ Marketing & Inventory Intelligence 
 
 * **Status**: In Progress *
 * **Focus**: Customer Analytics, Demand Forecasting, Business Intelligence
 
 ---
 
-### 8️⃣ Automated EDA & Insight Generation Engine
+### 9️⃣ Automated EDA & Insight Generation Engine
 
 * **Status**: In Progress *
 * **Focus**: Automated EDA, Data Profiling, AI-Ready Analytics
 
 ---
 
-### 9️⃣  [HR Analytics: Training & Retention Insights](./hr-analytics-training-retention)
+### 🔟  [HR Analytics: Training & Retention Insights](./hr-analytics-training-retention)
 
 * **Tools**: Power BI, Pandas (Google Colab)
 * **Objective**: Analyze employee salary, tenure, rating, and workforce diversity
@@ -126,7 +133,7 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 
 --- 
 
-### 🔟 [Sales Data Pipeline Automation](./sales-data-pipeline-automation.)
+### 1️⃣1️⃣ [Sales Data Pipeline Automation](./sales-data-pipeline-automation.)
 
 * **Tools**: Python, Google Sheets API, Pandas, Google Colab
 * **Objective**: Automate collection, cleaning, consolidation, and reporting of sales data
@@ -141,7 +148,7 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 
 ---
 
-### 1️⃣1️⃣ [Uber Trip Analysis](./uber_trip_analysis)
+### 1️⃣2️⃣ [Uber Trip Analysis](./uber_trip_analysis)
 
 * **Tools**: MySQL Workbench
 * **Objective**: Analyze Uber trip trends using SQL
@@ -155,7 +162,7 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 
 ---
 
-### 1️⃣2️⃣ [Product Inventory Dashboard & Retail Insights (Excel)](./product-inventory-dashboard-retail-insights-in-excel)
+### 1️⃣3️⃣ [Product Inventory Dashboard & Retail Insights (Excel)](./product-inventory-dashboard-retail-insights-in-excel)
 
 * **Tools**: Microsoft Excel
 * **Objective**: Analyze inventory and visualize stock performance across brands and categories
