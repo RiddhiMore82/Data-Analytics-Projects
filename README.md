@@ -80,7 +80,7 @@ Welcome! I'm **Riddhi More**, an aspiring data professional passionate about tur
 
 ---
 
-### 5️⃣ [RAG-Based Product Intelligence Assistant](./rag-based-product-intelligence-assistant)
+### 5️⃣ [RAG-Based Product Intelligence Assistant](./RAG-based_Product_Intelligence_Assistant)
 
 * **Tools**: Python, Streamlit, LangChain, OpenAI GPT-4o-mini, Scikit-learn, Pandas
 * **Objective**: Build an AI-powered business intelligence assistant that enables natural language querying over SaaS sales data using Retrieval-Augmented Generation (RAG)
